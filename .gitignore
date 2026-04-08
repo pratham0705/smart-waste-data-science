@@ -1,1 +1,5 @@
-waste_env
+waste_env/
+.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
