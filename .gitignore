@@ -2,4 +2,8 @@ waste_env/
 .env
 *.pyc
 __pycache__/
-.ipynb_checkpoints/
+.ipynb_checkpoints/smartair_env/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
